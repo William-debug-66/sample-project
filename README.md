@@ -1,13 +1,10 @@
 # sample-project
  
-## Yimin Zhou
-### You can also call me *William*
-I am a **student** at the [SWUFE](https://www.swufe.edu.cn/).
+Hello guys. This is William.
 
+## skills
+I can do python.
+I can learn.
 
-These are the things I like to do:
-- study
-- play basketball
-- hiking
-
-The ```print()``` function is an easy funtion in Python.
+### quote
+ - I love python and python loves me
